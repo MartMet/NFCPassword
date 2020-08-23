@@ -19,7 +19,7 @@ The app does two things: store a password onto a NFC tag or read it from NFC tag
 * hold NFC tag close
 * password is decrypted and put into clipboard
 * use your password
-* dont forget to clear the clipboard after usage [Clipboard Safety](https://www.reddit.com/r/Bitwarden/comments/cwinrh/is_my_password_safe_while_copied_to_clipboard_in/)
+* dont forget to clear the clipboard after usage ([Clipboard Safety](https://www.reddit.com/r/Bitwarden/comments/cwinrh/is_my_password_safe_while_copied_to_clipboard_in/))
 
 ## What key is used to encrypt my password?
 The Android ID (Settings.Secure.ANDROID_ID or SSAID) see:
