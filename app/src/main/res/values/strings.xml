@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFCPassword</string>
+    <string name="action_help">Help</string>
+    <string name="explanation">none</string>
+</resources>
