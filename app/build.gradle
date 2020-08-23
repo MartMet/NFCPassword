@@ -18,7 +18,9 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        signingConfig signingConfigs.config
+        
+        //enable this and put your credentials into signingConfigs
+        //signingConfig signingConfigs.config
     }
     buildTypes {
         release {
