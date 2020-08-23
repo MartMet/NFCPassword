@@ -28,7 +28,7 @@ The Android ID (Settings.Secure.ANDROID_ID or SSAID) see:
 
 Backup your password before doing a factory reset!
 
-## Is it safe?
+## Is it secure?
 Most likely not. 
 
 Use it without warranty and at your own risk.
